@@ -8,3 +8,5 @@ this collection made by tarekscripter:
 youtube: tarekscripter
 
 scriptblox: tarekscripter
+
+every script here is fixed and if its corrupted i put files to fix it!
